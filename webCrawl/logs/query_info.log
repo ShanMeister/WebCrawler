@@ -1,0 +1,20 @@
+2022-08-17 17:41:34,588 : INFO : Start date: 2022-08-17, End date: 2022-08-17, List filename: error
+2022-08-17 17:42:22,468 : INFO : Start date: 2022-08-17, End date: 2022-08-17, List filename: error
+2022-08-17 17:42:55,586 : INFO : Start date: 2022-08-17, End date: 2022-08-17, List filename: error
+2022-08-17 17:43:26,889 : INFO : Start date: 2022-08-17, End date: 2022-08-17, List filename: error
+2022-08-17 22:52:26,334 : INFO : Start date: 2022-08-17, End date: 2022-08-17, List filename: error
+2022-08-17 22:52:26,335 : INFO : All done.
+2022-08-17 22:56:26,065 : INFO : Start date: 2022-08-17, End date: 2022-08-17, List filename: error
+2022-08-17 22:56:32,692 : ERROR : connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2022-08-17 22:56:32,700 : INFO : All done.
+2022-08-18 00:00:25,586 : INFO : Start date: 2018-05-15, End date: 2018-05-15, List filename: 20180515
+2022-08-18 00:00:32,523 : ERROR : connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2022-08-18 00:00:32,532 : INFO : All done.
